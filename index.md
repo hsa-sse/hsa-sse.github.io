@@ -31,11 +31,14 @@ xxx
 | 25. Juni  | Presentations                  | -                    | -                                      |
 
 ## Bewertung
+
 - 6 Assignments (je 5 % der Punkte)
 - Abschluss-Präsentation (60 % der Punkte)
 
 ## Impressum
-```Michael Netter
+
+```
+Michael Netter
 Hochschule Ansbach
 Postfach 1963
 91510 Ansbach
@@ -44,11 +47,4 @@ Postfach 1963
 Kontakt: 
 E-Mail: michael.netter@hs-ansbach.de
 Tel.: +49 (0) 981 / 4877 227
-```
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
 ```
