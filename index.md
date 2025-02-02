@@ -45,3 +45,10 @@ Kontakt:
 E-Mail: michael.netter@hs-ansbach.de
 Tel.: +49 (0) 981 / 4877 227
 ```
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
