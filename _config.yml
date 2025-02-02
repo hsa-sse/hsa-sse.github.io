@@ -3,3 +3,6 @@ theme: jekyll-theme-hacker
 # Content
 content:
   semester: "SS 25"
+
+github:
+  repository_url: https://github.com/hsa-sse
