@@ -23,8 +23,8 @@ xxx
 | 1. Mai    | --- Feiertag ---               | -                    | -                                      |
 | 8. Mai    | XSS                            | XSStravaganza (A4)   | -                                      |
 | 15. Mai   | SSRF                           | -                    | <span style="color:red"> **A4**</span> |
-| 22. Mai   | Path Traversal                 | (A5)                 | -                                      |
-| 29. Mai   | --- Feiertag ---               | -                    | <span style="color:red"> **54**</span> |
+| 22. Mai   | Path Traversal                 | DotDotPwn (A5)       | -                                      |
+| 29. Mai   | --- Feiertag ---               | -                    | <span style="color:red"> **A5**</span> |
 | 5. Juni   | SCA (Dependency Check)         | (A6)                 | -                                      |
 | 12. Juni  | Secret Scanning                | -                    | <span style="color:red"> **A6**</span> |
 | 19. Juni  | --- Feiertag ---               | -                    | -                                      |
@@ -37,14 +37,13 @@ xxx
 
 ## Impressum
 
-```
-Michael Netter
-Hochschule Ansbach
-Postfach 1963
-91510 Ansbach
+
+Michael Netter<br>
+Hochschule Ansbach<br>
+Postfach 1963<br>
+91510 Ansbach<br>
 
 
-Kontakt: 
-E-Mail: michael.netter@hs-ansbach.de
+Kontakt:<br>
+E-Mail: michael.netter@hs-ansbach.de<br>
 Tel.: +49 (0) 981 / 4877 227
-```
