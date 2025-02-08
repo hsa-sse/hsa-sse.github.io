@@ -43,7 +43,7 @@ Während des Kurses präsentieren Sie Ihre Exploits und Ihre Schutzmaßnahmen. S
 ## Bewertung
 
 - 6 Assignments (je 5 % der Punkte)
-- Abschluss-Präsentation (60 % der Punkte)
+- Abschluss-Präsentation (70 % der Punkte)
 
 ## Impressum
 
