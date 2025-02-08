@@ -1,14 +1,24 @@
 ---
-title: SSE
+title: Secure Software Engineering
 # description: "{{ site.content.semester }}"
 layout: default
 ---
-*Semester: {{ site.content.semester }}*
+*Secure Software Engineering, Semester: {{ site.content.semester }}*
 # Syllabus
-Hier ist der erste Inhalt meiner GitHub Pages-Seite. 😊
 
-## Kursbeschreibung
-xxx
+Das Ziel dieser praxisorientierten Veranstaltung für fortgeschrittene Studierende besteht darin, die IT-Security-Herausforderungen bei der Entwicklung von Anwendungen zu verstehen und zu lösen. Wir untersuchen entlang des Secure Software Development Lifecycle (SSDL) typische Sicherheitsrisiken und Schwachstellen. Sie lernen, wie sie Schwachstellen erkennen, bewerten und beheben können.
+
+Während des Kurses präsentieren Sie Ihre Exploits und Ihre Schutzmaßnahmen. Sie bearbeiten kleine Assignments zu Hause und präsentieren Ihre Anwendung am Ende des Semesters.
+
+### Lernziele
+- Verstehen und Anwenden des Secure Software Development Lifecycle
+- Kennen und verstehen typischer Schwachstellen und Sicherheitsrisiken bei der Softwareentwicklung
+- Analysieren und Beheben konkreter Schwachstellen (z. B. SQL Injection, XSS, SSRF)
+
+### Voraussetzungen
+- Kenntnisse in Java und Spaß am Programmieren
+- Basiswissen zu Datenbanken und Web-Technologien
+- Interesse an IT-Sicherheit und Spaß am Experimentieren
 
 ## Inhalte
 
@@ -36,7 +46,6 @@ xxx
 - Abschluss-Präsentation (60 % der Punkte)
 
 ## Impressum
-
 
 Michael Netter<br>
 Hochschule Ansbach<br>
