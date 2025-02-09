@@ -1,9 +1,8 @@
 ---
 title: Secure Software Engineering
-description: at Ansbach University of Applied Sciences
 layout: default
 ---
-*Secure Software Engineering, Semester: {{ site.content.semester }}*
+*Hochschule Ansbach, Semester: {{ site.content.semester }}*
 # Syllabus
 
 Das Ziel dieser praxisorientierten Veranstaltung für fortgeschrittene Studierende besteht darin, die IT-Security-Herausforderungen bei der Entwicklung von Anwendungen zu verstehen und zu lösen. Wir untersuchen entlang des Secure Software Development Lifecycle (SSDL) typische Sicherheitsrisiken und Schwachstellen. Sie lernen, wie Sie Schwachstellen erkennen, bewerten und beheben können.
