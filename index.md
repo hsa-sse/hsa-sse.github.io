@@ -1,6 +1,6 @@
 ---
 title: Secure Software Engineering
-# description: "{{ site.content.semester }}"
+description: at Ansbach University of Applied Sciences
 layout: default
 ---
 *Secure Software Engineering, Semester: {{ site.content.semester }}*
