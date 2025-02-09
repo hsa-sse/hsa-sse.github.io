@@ -38,7 +38,7 @@ Während des Kurses präsentieren Sie Ihre Exploits und Ihre Schutzmaßnahmen. S
 | 5. Juni   | SCA (Dependency Check)         | (A6)                 | -                                      |
 | 12. Juni  | Secret Scanning                | -                    | <span style="color:red"> **A6**</span> |
 | 19. Juni  | --- Feiertag ---               | -                    | -                                      |
-| 25. Juni  | Presentations                  | -                    | -                                      |
+| 25. Juni  | Präsentationen                 | -                    | -                                      |
 
 ## Bewertung
 
