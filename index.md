@@ -27,7 +27,7 @@ Während des Kurses präsentieren Sie Ihre Exploits und Ihre Schutzmaßnahmen. S
 | 27. März  | Secure Software Dev. Lifecycle | -                    | <span style="color:red"> **A1**</span> |
 | 3. April  | Cryptographic Failures         | The Argonaut (A2)    | -                                      |
 | 10. April | Broken Access Control          | -                    | <span style="color:red"> **A2**</span> |
-| 17. April | SQL Injection                  | (A3)                 | -                                      |
+| 17. April | SQL Injection                  | SQL Blind Date (A3)  | -                                      |
 | 24. April | Command Injection              | -                    | <span style="color:red"> **A3**</span> |
 | 1. Mai    | --- Feiertag ---               | -                    | -                                      |
 | 8. Mai    | XSS                            | XSStravaganza (A4)   | -                                      |
