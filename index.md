@@ -51,7 +51,6 @@ Hochschule Ansbach<br>
 Postfach 1963<br>
 91510 Ansbach<br>
 
-
 Kontakt:<br>
 E-Mail: michael.netter@hs-ansbach.de<br>
 Tel.: +49 (0) 981 / 4877 227
