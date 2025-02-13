@@ -55,3 +55,5 @@ Postfach 1963<br>
 Kontakt:<br>
 E-Mail: michael.netter@hs-ansbach.de<br>
 Tel.: +49 (0) 981 / 4877 227
+
+[Datenschutzerklärung](/datenschutz)
