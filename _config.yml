@@ -1,19 +1,9 @@
 theme: jekyll-theme-hacker
 
-# Content
-content:
-  semester: "SS 25"
-
 # Collections
 collections:
   archive:
     output: true
-
-# Navigation
-header:
-  links:
-    - title: "Archiv"
-      url: /archive
 
 github:
   repository_url: https://github.com/hsa-sse
