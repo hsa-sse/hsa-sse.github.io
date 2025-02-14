@@ -8,7 +8,7 @@ layout: default
 
 Das Ziel dieser praxisorientierten Veranstaltung für fortgeschrittene Studierende ist es, IT-Sicherheitsherausforderungen in der Softwareentwicklung zu verstehen und zu bewältigen. Anhand von Codebeispielen lernen Sie, typische Sicherheitsrisiken und Schwachstellen zu identifizieren, zu bewerten und zu beheben. Zudem erwerben Sie theoretisches Wissen über gängige Schutzmaßnahmen entlang des Secure Software Development Lifecycle (SSDL).
 
-Während des Kurses präsentieren Sie Ihre Exploits und Ihre Schutzmaßnahmen. Sie bearbeiten kleine Assignments zu Hause und präsentieren Ihre Anwendung am Ende des Semesters.
+Während des Kurses präsentieren Sie Ihre Exploits und Ihre Schutzmaßnahmen. Sie bearbeiten kleinere Assignments zu Hause und präsentieren Ihre Anwendung am Ende des Semesters.
 
 ### Lernziele
 - Verstehen und Anwenden des Secure Software Development Lifecycle
