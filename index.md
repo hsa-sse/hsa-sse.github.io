@@ -35,9 +35,9 @@ Während des Kurses identifizieren Sie Schwachstellen in einer App und entwickel
 | 15. Mai   | SSRF                           | -                     | <span style="color:red"> **A4**</span> |
 | 22. Mai   | Path Traversal                 | DotDotPwn (A5)        | -                                      |
 | 29. Mai   | --- Feiertag ---               | -                     | <span style="color:red"> **A5**</span> |
-| 5. Juni   | SCA (Dependency Check)         | Lord of the Libs (A6) | -                                      |
-| 12. Juni  | Secret Scanning                | -                     | <span style="color:red"> **A6**</span> |
-| 19. Juni  | --- Feiertag ---               | -                     | -                                      |
+| 5. Juni   | --- Blockwoche ---             | -                     | -                                      |
+| 12. Juni  | SCA (Dependency Check)         | Lord of the Libs (A6) | -                                      |
+| 19. Juni  | --- Feiertag ---               | -                     | <span style="color:red"> **A6**</span> |
 | 25. Juni  | Präsentationen                 | -                     | -                                      |
 
 ## Bewertung
