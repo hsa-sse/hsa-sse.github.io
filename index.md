@@ -5,7 +5,6 @@ layout: default
 *Hochschule Ansbach, Semester: SS 25* ([Archiv](/archive))
 
 # Syllabus
-
 Das Ziel dieser praxisorientierten Veranstaltung für fortgeschrittene Studierende ist es, IT-Sicherheitsherausforderungen in der Softwareentwicklung zu verstehen und zu lösen. Anhand von Codebeispielen lernen Sie, typische Sicherheitsrisiken und Schwachstellen zu identifizieren, zu bewerten und zu beheben. Zudem erwerben Sie theoretisches Wissen über gängige Schutzmaßnahmen entlang des Secure Software Development Lifecycle (SSDL).
 
 Während des Kurses identifizieren Sie Schwachstellen in einer App und entwickeln gezielte Schutzmaßnahmen. Zu Hause bearbeiten Sie kleinere Assignments. Am Ende des Semesters präsentieren Sie einen tiefgehenden theoretischen Einblick in eines der behandelten Themen – der über die in der Veranstaltung vermittelten Inhalte hinausgeht – und demonstrieren anhand Ihrer Implementierung, wie Sie die diesbezüglichen Schwachstellen der App ausgenutzt und erfolgreich behoben haben.
@@ -21,7 +20,6 @@ Während des Kurses identifizieren Sie Schwachstellen in einer App und entwickel
 - Interesse an IT-Sicherheit und Spaß am Experimentieren
 
 ## Inhalte
-
 | **Datum** | **Themen**                     | **Assignment**                                                                   | **Abgabefrist<br>(23:59 Uhr)**         |
 |-----------|--------------------------------|----------------------------------------------------------------------------------|----------------------------------------|
 | 20. März  | Setup & Technologien           | [Bootiful Spring (A1)](https://moodle.hs-ansbach.de/mod/url/view.php?id=186556)  | -                                      |
@@ -41,12 +39,10 @@ Während des Kurses identifizieren Sie Schwachstellen in einer App und entwickel
 | 25. Juni  | Präsentationen                 | -                                                                                | -                                      |
 
 ## Bewertung
-
 - 6 Assignments: 30 % (je 5 % pro Assignment)
 - Abschluss-Präsentation: 70 % (40 % Deep Dive zu einem der obigen Themen + 30 % Vorstellung der Schwachstelle und deren Behebung in der App)
 
 ## Impressum
-
 Michael Netter<br>
 Hochschule Ansbach<br>
 Postfach 1963<br>
