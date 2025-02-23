@@ -20,6 +20,7 @@ Während des Kurses identifizieren Sie Schwachstellen in einer App und entwickel
 - Interesse an IT-Sicherheit und Spaß am Experimentieren
 
 ## Inhalte
+
 | **Datum** | **Themen**                     | **Assignment**                                                                   | **Abgabefrist<br>(23:59 Uhr)**         |
 |-----------|--------------------------------|----------------------------------------------------------------------------------|----------------------------------------|
 | 20. März  | Setup & Technologien           | [Bootiful Spring (A1)](https://moodle.hs-ansbach.de/mod/url/view.php?id=186556)  | -                                      |
