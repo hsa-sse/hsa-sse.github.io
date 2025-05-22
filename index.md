@@ -37,7 +37,7 @@ Während des Kurses identifizieren Sie Schwachstellen in einer App und entwickel
 | 5. Juni   | --- Blockwoche ---             | -                                                                                  | -                                      |
 | 12. Juni  | SCA (Dependency Check)         | [Lord of the Libs (A6)](https://moodle.hs-ansbach.de/mod/url/view.php?id=186561)   | -                                      |
 | 19. Juni  | --- Feiertag ---               | -                                                                                  | <span style="color:red"> **A6**</span> |
-| 25. Juni  | Präsentationen                 | -                                                                                  | -                                      |
+| 26. Juni  | Präsentationen                 | -                                                                                  | -                                      |
 
 
 ## Bewertung
