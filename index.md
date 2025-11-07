@@ -24,6 +24,9 @@ tbd
 
 ## Bewertung
 tbd
+[comment]: <> (30 % Assignment)
+[comment]: <> (70 % Entwicklung einer Spring Boot App mit nicht in VL behandelter Schwachstelle (bspw. Insecure Deserialization) und Präsentation)
+
 
 ## Impressum
 Michael Netter<br>
