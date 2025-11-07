@@ -20,29 +20,10 @@ Während des Kurses identifizieren Sie Schwachstellen in einer App und entwickel
 - Interesse an IT-Sicherheit und Spaß am Experimentieren
 
 ## Inhalte
-
-| **Datum** | **Themen**                     | **Assignment**                                                                     | **Abgabefrist<br>(23:59 Uhr)**         |
-|-----------|--------------------------------|------------------------------------------------------------------------------------|----------------------------------------|
-| 20. März  | Setup & Technologien           | [Bootiful Spring (A1)](https://moodle.hs-ansbach.de/mod/url/view.php?id=186556)    | -                                      |
-| 27. März  | Secure Software Dev. Lifecycle | -                                                                                  | <span style="color:red"> **A1**</span> |
-| 3. April  | Cryptographic Failures         | [The Argonaut (A2)](https://moodle.hs-ansbach.de/mod/url/view.php?id=186557)       | -                                      |
-| 10. April | Broken Access Control          | -                                                                                  | <span style="color:red"> **A2**</span> |
-| 17. April | --- Feiertag ---               | -                                                                                  | -                                      |
-| 24. April | SQL Injection                  | [SQL Blind Date (A3)](https://moodle.hs-ansbach.de/mod/url/view.php?id=186558)     | -                                      |
-| 1. Mai    | --- Feiertag ---               | -                                                                                  | <span style="color:red"> **A3**</span> |
-| 8. Mai    | Command Injection              | -                                                                                  | -                                      |
-| 15. Mai   | XSS                            | [XSStravaganza (A4)](https://moodle.hs-ansbach.de/mod/url/view.php?id=186559)      |                                        |
-| 22. Mai   | (SSRF) & Path Traversal        | [DotDotPwn (A5)](https://moodle.hs-ansbach.de/mod/url/view.php?id=186560)          | <span style="color:red"> **A4**</span> |
-| 29. Mai   | --- Feiertag ---               | -                                                                                  | <span style="color:red"> **A5**</span> |
-| 5. Juni   | --- Blockwoche ---             | -                                                                                  | -                                      |
-| 12. Juni  | SCA (Dependency Check)         | [Lord of the Libs (A6)](https://moodle.hs-ansbach.de/mod/url/view.php?id=186561)   | -                                      |
-| 19. Juni  | --- Feiertag ---               | -                                                                                  | <span style="color:red"> **A6**</span> |
-| 26. Juni  | Präsentationen                 | -                                                                                  | -                                      |
-
+tbd
 
 ## Bewertung
-- 6 Assignments: 30 % (je 5 % pro Assignment)
-- Abschluss-Präsentation: 70 % (40 % Deep Dive zu einem der obigen Themen + 30 % Vorstellung der Schwachstelle und deren Behebung in der App)
+tbd
 
 ## Impressum
 Michael Netter<br>

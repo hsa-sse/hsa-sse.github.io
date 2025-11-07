@@ -4,6 +4,7 @@ theme: jekyll-theme-hacker
 collections:
   archive:
     output: true
+    permalink: /archive/:name/
 
 github:
   repository_url: https://github.com/hsa-sse
