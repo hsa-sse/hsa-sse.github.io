@@ -27,6 +27,16 @@ tbd
 {% comment %}
 (30 % Assignment)
 (70 % Entwicklung einer Spring Boot App mit nicht in VL behandelter Schwachstelle (bspw. Insecure Deserialization) und Präsentation)
+Beispiele:
+- Insecure Deserialization
+- Session Management & Session Fixation
+- CSRF
+- Race Conditions
+- SSTI
+- CORS Misconfiguration?
+- JWT Misuse?
+- Clickjacking?
+- Resource Exhaustion /DOS (Zip Bombe)
 {% endcomment %}
 
 ## Impressum
