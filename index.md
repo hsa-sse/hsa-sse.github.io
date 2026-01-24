@@ -37,6 +37,8 @@ Beispiele:
 - JWT Misuse?
 - Clickjacking?
 - Resource Exhaustion /DOS (Zip Bombe)
+- Timing-Side-Channel Attacks (e.g. token validation)
+- Timing-based User-Enumeration (e.g. Login-/Reset-Flow)
 {% endcomment %}
 
 ## Impressum
