@@ -34,6 +34,7 @@ Beispiele:
 - Race Conditions
 - SSTI
 - CORS Misconfiguration?
+- Fehlerhaftes Output Encoding?
 - JWT Misuse?
 - Clickjacking?
 - Resource Exhaustion /DOS (Zip Bombe)
