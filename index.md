@@ -34,10 +34,9 @@ Während des Kurses identifizieren Sie Schwachstellen in einer App und entwickel
 | 14. Mai   | --- Feiertag ---               |                                                                                  |                                        |
 | 21. Mai   | --- Blockwoche ---             |                                                                                  |                                        |
 | 28. Mai   | SSRF                           |                                                                                  |                                        |
-| 28. Mai   | Path Traversal                 | [DotDotPwn (A5)](https://moodle.hs-ansbach.de/mod/url/view.php?id=186560)        | <span style="color:red"> **A4**</span> |
-| 4. Juni   |  --- Feiertag ---              |                                                                                  |                                        |
-| 11. Juni  | SCA (Dependency Check)         | [Lord of the Libs (A6)](https://moodle.hs-ansbach.de/mod/url/view.php?id=186561) | -                                      |
-| 18. Juni  |                                |                                                                                  |                                        |
+| 4. Juni   | Path Traversal                 | [DotDotPwn (A5)](https://moodle.hs-ansbach.de/mod/url/view.php?id=186560)        | <span style="color:red"> **A4**</span> |
+| 11. Juni  |  --- Feiertag ---              |                                                                                  |                                        |
+| 18. Juni  | SCA (Dependency Check)         | [Lord of the Libs (A6)](https://moodle.hs-ansbach.de/mod/url/view.php?id=186561) | -                                      |
 | 25. Juni  | Präsentationen                 |                                                                                  |                                        |
 | 2. Juli   | Präsentationen                 | -                                                                                | -                                      |
 
