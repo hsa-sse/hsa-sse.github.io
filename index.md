@@ -20,13 +20,35 @@ Während des Kurses identifizieren Sie Schwachstellen in einer App und entwickel
 - Interesse an IT-Sicherheit und Spaß am Experimentieren
 
 ## Inhalte
-tbd
+
+| **Datum** | **Themen**                     | **Assignment**                                                                   | **Abgabefrist<br>(23:59 Uhr)**         |
+|-----------|--------------------------------|----------------------------------------------------------------------------------|----------------------------------------|
+| 19. März  | Setup & Technologien           | [Bootiful Spring (A1)](https://moodle.hs-ansbach.de/mod/url/view.php?id=186556)  | -                                      |
+| 26. März  | Secure Software Dev. Lifecycle | -                                                                                | <span style="color:red"> **A1**</span> |
+| 2. April  | --- Feiertag ---               |                                                                                  |                                        |
+| 9. April  | Cryptographic Failures         | [The Argonaut (A2)](https://moodle.hs-ansbach.de/mod/url/view.php?id=186557)     | -                                      |
+| 16. April | Broken Access Control          | -                                                                                | <span style="color:red"> **A2**</span> |
+| 23. April | SQL Injection                  | [SQL Blind Date (A3)](https://moodle.hs-ansbach.de/mod/url/view.php?id=186558)   | -                                      |
+| 30. April | Command Injection              | -                                                                                | -                                      |
+| 7. Mai    | XSS                            | [XSStravaganza (A4)](https://moodle.hs-ansbach.de/mod/url/view.php?id=186559)    |                                        |
+| 14. Mai   | --- Feiertag ---               |                                                                                  |                                        |
+| 21. Mai   | --- Blockwoche ---             |                                                                                  |                                        |
+| 28. Mai   | SSRF                           |                                                                                  |                                        |
+| 28. Mai   | Path Traversal                 | [DotDotPwn (A5)](https://moodle.hs-ansbach.de/mod/url/view.php?id=186560)        | <span style="color:red"> **A4**</span> |
+| 4. Juni   |  --- Feiertag ---              |                                                                                  |                                        |
+| 11. Juni  | SCA (Dependency Check)         | [Lord of the Libs (A6)](https://moodle.hs-ansbach.de/mod/url/view.php?id=186561) | -                                      |
+| 18. Juni  |                                |                                                                                  |                                        |
+| 25. Juni  | Präsentationen                 |                                                                                  |                                        |
+| 2. Juli   | Präsentationen                 | -                                                                                | -                                      |
+
+
 
 ## Bewertung
 tbd
 {% comment %}
 (30 % Assignment)
-(70 % Entwicklung einer Spring Boot App mit nicht in VL behandelter Schwachstelle (bspw. Insecure Deserialization) und Präsentation)
+(30 % Abgabe App)
+(40 % Entwicklung einer Spring Boot App mit nicht in VL behandelter Schwachstelle (bspw. Insecure Deserialization) und Präsentation)
 Beispiele:
 - Insecure Deserialization
 - CSRF!
