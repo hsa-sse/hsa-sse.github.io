@@ -26,7 +26,7 @@ Während des Kurses identifizieren Sie Schwachstellen in einer App und entwickel
 | 19. März  | Setup & Technologien           | [Bootiful Spring (A1)](https://moodle.hs-ansbach.de/mod/url/view.php?id=237810)  | -                                      |
 | 26. März  | Secure Software Dev. Lifecycle | -                                                                                | <span style="color:red"> **A1**</span> |
 | 2. April  | --- Feiertag ---               |                                                                                  |                                        |
-| 9. April  | Cryptographic Failures         | [The Argonaut (A2)](https://moodle.hs-ansbach.de/mod/url/view.php?id=186557)     | -                                      |
+| 9. April  | Cryptographic Failures         | [The Argonaut (A2)](https://moodle.hs-ansbach.de/mod/url/view.php?id=237946)     | -                                      |
 | 16. April | Broken Access Control          | -                                                                                | <span style="color:red"> **A2**</span> |
 | 23. April | SQL Injection                  | [SQL Blind Date (A3)](https://moodle.hs-ansbach.de/mod/url/view.php?id=186558)   | -                                      |
 | 30. April | Command Injection              | -                                                                                | -                                      |
