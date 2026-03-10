@@ -25,19 +25,19 @@ Während des Kurses identifizieren Sie Schwachstellen in einer App und entwickel
 |-----------|--------------------------------|----------------------------------------------------------------------------------|----------------------------------------|
 | 19. März  | Setup & Technologien           | [Bootiful Spring (A1)](https://moodle.hs-ansbach.de/mod/url/view.php?id=237810)  | -                                      |
 | 26. März  | Secure Software Dev. Lifecycle | -                                                                                | <span style="color:red"> **A1**</span> |
-| 2. April  | --- Feiertag ---               |                                                                                  |                                        |
+| 2. April  | --- Feiertag ---               | -                                                                                | -                                      |
 | 9. April  | Cryptographic Failures         | [The Argonaut (A2)](https://moodle.hs-ansbach.de/mod/url/view.php?id=237946)     | -                                      |
 | 16. April | Broken Access Control          | -                                                                                | <span style="color:red"> **A2**</span> |
 | 23. April | SQL Injection                  | [SQL Blind Date (A3)](https://moodle.hs-ansbach.de/mod/url/view.php?id=237954)   | -                                      |
 | 30. April | Command Injection              | -                                                                                | <span style="color:red"> **A3**</span> |
-| 7. Mai    | XSS                            | [XSStravaganza (A4)](https://moodle.hs-ansbach.de/mod/url/view.php?id=186559)    |                                        |
-| 14. Mai   | --- Feiertag ---               |                                                                                  |                                        |
-| 21. Mai   | --- Blockwoche ---             |                                                                                  |                                        |
-| 28. Mai   | SSRF                           |                                                                                  |                                        |
+| 7. Mai    | XSS                            | [XSStravaganza (A4)](https://moodle.hs-ansbach.de/mod/url/view.php?id=186559)    | -                                      |
+| 14. Mai   | --- Feiertag ---               | -                                                                                | -                                      |
+| 21. Mai   | --- Blockwoche ---             | -                                                                                | -                                      |
+| 28. Mai   | SSRF                           | -                                                                                | -                                      |
 | 4. Juni   | Path Traversal                 | [DotDotPwn (A5)](https://moodle.hs-ansbach.de/mod/url/view.php?id=186560)        | <span style="color:red"> **A4**</span> |
-| 11. Juni  | --- Feiertag ---               |                                                                                  |                                        |
+| 11. Juni  | --- Feiertag ---               | -                                                                                | -                                      |
 | 18. Juni  | SCA (Dependency Check)         | [Lord of the Libs (A6)](https://moodle.hs-ansbach.de/mod/url/view.php?id=186561) | -                                      |
-| 25. Juni  | Präsentationen                 |                                                                                  |                                        |
+| 25. Juni  | Präsentationen                 | -                                                                                | -                                      |
 | 2. Juli   | Präsentationen                 | -                                                                                | -                                      |
 
 
