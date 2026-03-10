@@ -30,8 +30,8 @@ Während des Kurses identifizieren Sie Schwachstellen in einer App und entwickel
 | 16. April | Broken Access Control          | -                                                                                | <span style="color:red"> **A2**</span> |
 | 23. April | SQL Injection                  | [SQL Blind Date (A3)](https://moodle.hs-ansbach.de/mod/url/view.php?id=237954)   | -                                      |
 | 30. April | Command Injection              | -                                                                                | <span style="color:red"> **A3**</span> |
-| 7. Mai    | XSS                            | [XSStravaganza (A4)](https://moodle.hs-ansbach.de/mod/url/view.php?id=186559)    | -                                      |
-| 14. Mai   | --- Feiertag ---               | -                                                                                | -                                      |
+| 7. Mai    | XSS                            | [XSStravaganza (A4)](https://moodle.hs-ansbach.de/mod/url/view.php?id=238085)    | -                                      |
+| 14. Mai   | --- Feiertag ---               | -                                                                                | <span style="color:red"> **A4**</span> |
 | 21. Mai   | --- Blockwoche ---             | -                                                                                | -                                      |
 | 28. Mai   | SSRF                           | -                                                                                | -                                      |
 | 4. Juni   | Path Traversal                 | [DotDotPwn (A5)](https://moodle.hs-ansbach.de/mod/url/view.php?id=186560)        | <span style="color:red"> **A4**</span> |
