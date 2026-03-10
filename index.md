@@ -47,7 +47,7 @@ Während des Kurses identifizieren Sie Schwachstellen in einer App und entwickel
 - Abgabe der PwnMeme-App mit den behobenen Schwachstellen: 30 %
 - Deep Dive zu einem nicht behandelten, vorgegebenen Thema: 40 %
   - Präsentation 
-  - Entwicklung einer Spring Boot App, die die Schwachstelle demonstriert
+  - Entwicklung einer Spring Boot-App, die die Schwachstelle demonstriert
 
 
 {% comment %}
