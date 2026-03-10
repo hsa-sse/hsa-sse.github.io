@@ -34,8 +34,8 @@ Während des Kurses identifizieren Sie Schwachstellen in einer App und entwickel
 | 14. Mai   | --- Feiertag ---               | -                                                                                | <span style="color:red"> **A4**</span> |
 | 21. Mai   | --- Blockwoche ---             | -                                                                                | -                                      |
 | 28. Mai   | SSRF                           | -                                                                                | -                                      |
-| 4. Juni   | Path Traversal                 | [DotDotPwn (A5)](https://moodle.hs-ansbach.de/mod/url/view.php?id=186560)        | <span style="color:red"> **A4**</span> |
-| 11. Juni  | --- Feiertag ---               | -                                                                                | -                                      |
+| 4. Juni   | Path Traversal                 | [DotDotPwn (A5)](https://moodle.hs-ansbach.de/mod/url/view.php?id=238138)        | -                                      |
+| 11. Juni  | --- Feiertag ---               | -                                                                                | <span style="color:red"> **A5**</span> |
 | 18. Juni  | SCA (Dependency Check)         | [Lord of the Libs (A6)](https://moodle.hs-ansbach.de/mod/url/view.php?id=186561) | -                                      |
 | 25. Juni  | Präsentationen                 | -                                                                                | -                                      |
 | 2. Juli   | Präsentationen                 | -                                                                                | -                                      |
