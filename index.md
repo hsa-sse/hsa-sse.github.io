@@ -41,7 +41,6 @@ Während des Kurses identifizieren Sie Schwachstellen in einer App und entwickel
 | 2. Juli   | Präsentationen                 | -                                                                                | -                                      |
 
 
-
 ## Bewertung
 - 6 Assignments: 30 % (je 5 % pro Assignment)
 - Abgabe der PwnMeme-App mit den behobenen Schwachstellen: 30 %
@@ -49,9 +48,8 @@ Während des Kurses identifizieren Sie Schwachstellen in einer App und entwickel
   - Präsentation 
   - Entwicklung einer Spring Boot-App, die die Schwachstelle demonstriert
 
-
 {% comment %}
-(30 % Assignment)
+(30 % Assignment) Bonuspunkte für das Finden einer nicht genannten Schwachstelle
 (30 % Abgabe App)
 (40 % Entwicklung einer Spring Boot App mit nicht in VL behandelter Schwachstelle (bspw. Insecure Deserialization) und Präsentation)
 Beispiele:
