@@ -43,8 +43,8 @@ Während des Kurses identifizieren Sie Schwachstellen in einer App und entwickel
 
 ## Bewertung
 - 6 Assignments: 30 % (je 5 % pro Assignment)
-- Abgabe der PwnMeme-App mit den behobenen Schwachstellen: 30 %
-- Deep Dive zu einem nicht behandelten, vorgegebenen Thema: 40 %
+- Abgabe der PwnMeme-App mit den behobenen Schwachstellen (2er-Gruppen): 20 %
+- Deep Dive zu einem nicht behandelten, vorgegebenen Thema (2er-Gruppen): 50 %
   - Präsentation 
   - Entwicklung einer Spring Boot-App, die die Schwachstelle demonstriert
 
